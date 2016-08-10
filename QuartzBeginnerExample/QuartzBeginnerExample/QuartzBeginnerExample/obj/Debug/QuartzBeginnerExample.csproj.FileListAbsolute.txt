@@ -1,0 +1,10 @@
+D:\Learning\Architecture\QuartzBeginnerExample\QuartzBeginnerExample\QuartzBeginnerExample\bin\Debug\QuartzBeginnerExample.exe.config
+D:\Learning\Architecture\QuartzBeginnerExample\QuartzBeginnerExample\QuartzBeginnerExample\obj\Debug\QuartzBeginnerExample.exe
+D:\Learning\Architecture\QuartzBeginnerExample\QuartzBeginnerExample\QuartzBeginnerExample\obj\Debug\QuartzBeginnerExample.pdb
+D:\Learning\Architecture\QuartzBeginnerExample\QuartzBeginnerExample\QuartzBeginnerExample\bin\Debug\QuartzBeginnerExample.exe
+D:\Learning\Architecture\QuartzBeginnerExample\QuartzBeginnerExample\QuartzBeginnerExample\bin\Debug\QuartzBeginnerExample.pdb
+D:\Learning\Architecture\QuartzBeginnerExample\QuartzBeginnerExample\QuartzBeginnerExample\bin\Debug\Common.Logging.dll
+D:\Learning\Architecture\QuartzBeginnerExample\QuartzBeginnerExample\QuartzBeginnerExample\bin\Debug\Nullables.dll
+D:\Learning\Architecture\QuartzBeginnerExample\QuartzBeginnerExample\QuartzBeginnerExample\bin\Debug\Quartz.dll
+D:\Learning\Architecture\QuartzBeginnerExample\QuartzBeginnerExample\QuartzBeginnerExample\bin\Debug\Nullables.xml
+D:\Learning\Architecture\QuartzBeginnerExample\QuartzBeginnerExample\QuartzBeginnerExample\obj\Debug\QuartzBeginnerExample.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+bin\Debug\QuartzBeginnerExample.exe
+bin\Debug\QuartzBeginnerExample.pdb
+bin\Debug\Common.Logging.dll
+bin\Debug\Quartz.dll
+bin\Debug\Nullables.dll
+bin\Debug\Nullables.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\QuartzBeginnerExample.exe
+obj\Debug\QuartzBeginnerExample.pdb
+bin\Debug\QuartzBeginnerExample.exe.config
